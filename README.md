@@ -1,7 +1,6 @@
 # Graphical-Sleep-Assistant
 
-This is a GIF sleep aid tool.
-
+This is a GIF sleep aid tool. 
 You can open GIFs and play related music to help you go to sleep faster. You can set the alarm clock at the corresponding time, use the software before going to bed, relax your brain through GIF pictures, and quickly enter the sleep state
 1. Staring at these animated pictures can help you sleep quickly, and you can also play sleep aid music
 2. If you want to use it every night before going to bed to ensure regular sleep every day, you can set a reminder in the app.
